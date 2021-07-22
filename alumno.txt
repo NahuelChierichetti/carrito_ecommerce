@@ -1,0 +1,6 @@
+Alumno: Chierichetti, Nahuel Nicolás
+Cuatrimestre: 2
+Comisión: A
+Turno: Mañana
+Matera: Programación 1
+Profesor: Noto, Federico
